@@ -4,7 +4,7 @@
 A program with minimalist GUI which automates the feedback submission of PIEAS University
 
 ## Download Link (**UPDATED**)
-https://github.com/akbaig/Autofeedback/releases/download/v3.4.5/autofeedv3.4.5.zip
+https://github.com/abdullahtahir-me/Autofeedback/releases/tag/version3
 
 ## Tutorial (How to use)
 https://www.youtube.com/watch?v=hg0khGFO6OM
